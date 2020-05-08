@@ -1,0 +1,40 @@
+20-Apr-2020 (19:15:46.600432),USER: hi,SFIT: I am glad! You are talking to me,1
+20-Apr-2020 (19:18:27.509866),USER: abc,SFIT: I am sorry! I did not understand this.,0
+26-Apr-2020 (12:33:37.981484),USER: hi,SFIT: hey,1
+26-Apr-2020 (12:33:47.293227),USER: hello!,SFIT: I am sorry! I did not understand this.,0
+26-Apr-2020 (12:33:52.283878),USER: hello,SFIT: It's nice to meet you.,1
+26-Apr-2020 (12:33:58.078192),USER: sfit,SFIT: SFIT has five UG Programs and two PG Programs in the most coveted disciplines considering both industrial need and public preference .,1
+26-Apr-2020 (12:34:05.508613),USER: where is sfit,SFIT: SFIT has five UG Programs and two PG Programs in the most coveted disciplines considering both industrial need and public preference .,1
+26-Apr-2020 (12:34:17.591628),USER: sfit location,SFIT: Our location: 
+Mount Poinsur, S.V.P Road, Borivali (West), Mumbai 400 103 .,1
+26-Apr-2020 (12:34:29.612706),USER: vision,SFIT: Our vision:
+The vision of computer science program at SFIT is to continuously improve its educational environment to nurture future technological entrepreneurs and researchers, with strong emphasis on ethics and professional code of conduct .,1
+26-Apr-2020 (12:34:37.066750),USER: hod,SFIT: CMPN HOD:
+DR. KAVITA SONAWANE:
+* HOD & Professor
+* Email :kavitasonawane@sfit.ac.in
+* Phone : 28928585-236
+* Area of Interest : Image Processing, Image retreival, Medical Image Analysis, Software Engineering and analysis modeling .,1
+26-Apr-2020 (12:34:45.053500),USER: snehal,SFIT: SNEHAL KATHALE
+* Assistant Professor
+* Email :snehalkathale@sfit.ac.in
+* Phone : 0228928585
+* Area of Interest :  Image processing, signal processing,pattern matching .,1
+26-Apr-2020 (12:35:04.647092),USER: sfit,SFIT: SFIT has five UG Programs and two PG Programs in the most coveted disciplines considering both industrial need and public preference .,1
+26-Apr-2020 (12:35:10.458950),USER: programs,SFIT: SFIT has five UG Programs and two PG Programs in the most coveted disciplines considering both industrial need and public preference .,1
+26-Apr-2020 (12:35:19.312855),USER: faculty,SFIT: Cmpn Faculty list:
+https://www.sfit.ac.in/cmpn%20Faculty%20List.php .,1
+26-Apr-2020 (12:35:25.095097),USER: fees ,SFIT: Fees proposal:
+https://www.sfit.ac.in/FeesProposal.php .,1
+26-Apr-2020 (12:35:38.879413),USER: student list extc,SFIT: CMPN Students list:
+https://www.sfit.ac.in/cmpn%20Students%20Attendance.php .,1
+26-Apr-2020 (12:35:47.033913),USER: extc,SFIT: EXTC time table list:
+https://www.sfit.ac.in/extc_time_table.php
+
+Code of Ethics:
+https://www.sfit.ac.in/Conduct-Ethic-students.php .,1
+26-Apr-2020 (12:35:55.804748),USER: inft,SFIT: INFT Students list:
+https://www.sfit.ac.in/it_enrolled_students_list.php .,1
+26-Apr-2020 (12:36:01.723627),USER: cmon,SFIT: I am sorry! I did not understand this.,0
+26-Apr-2020 (12:36:04.865233),USER: cmpn,SFIT: CMPN Results:
+https://www.sfit.ac.in/cmpn-Yearwise-result.php .,1
